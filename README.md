@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnayJ780
-- 👀 I’m interested in AI technologies
-- 🌱 I’m currently learning Flutter Development
+- 👋 Hi, I’m Anay
+- 👀 I’m keen in integrating AI in our systems.
+- 🌱 I am into backend technology like FAST API.
 - 😄 Pronouns:He\Him
 
 
