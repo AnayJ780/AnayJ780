@@ -5,7 +5,7 @@ I am a Software Development Engineer with a strong focus on backend architecture
 ### 🛠️ Tech Stack & Tools
 *   **Languages:** Python, SQL
 *   **Backend & ORM:** FastAPI, SQLAlchemy
-*   **Databases:** SQLite, Relational Databases
+*   **Databases:** SQLite, Relational Databases, PostgreSQL
 *   **AI/ML Integration:** Scikit-Learn, Pandas, RESTful Model Serving
 *   **Tools:** Git, GitHub, Uvicorn, Streamlit
 
