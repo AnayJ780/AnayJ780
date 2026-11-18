@@ -10,12 +10,12 @@ I am a Software Development Engineer with a strong focus on backend architecture
 *   **Tools:** Git, GitHub, Uvicorn, Streamlit
 
 ### 🚀 What I'm Currently Working On
-*   Building an **Intelligent B2B E-Commerce Analytics Engine**, focusing on normalized database design and FastAPI routing.
 *   Preparing for the **Major League Hacking (MLH) Spring 2027 Fellowship**.
 *   Actively practicing Python DSA patterns (Two Pointers, Sliding Window, Fast/Slow, Trees).
 
 ### 💡 Featured Projects
 *   **[AI Loan Affordability Microservice](https://github.com/AnayJ780/ai-loan-affordability-microservice):** A FastAPI backend integrating a Scikit-Learn machine learning model to evaluate financial risk payloads in real-time, utilizing strict Pydantic validation.
+*   **[B2B Analytics Engine](https://github.com/AnayJ780/b2b-analytics-engine)**: A secure, multi-tenant REST API built with FastAPI and PostgreSQL. Engineered to prevent cross-tenant data leakage in B2B SaaS environments through strict database-level data isolation, JWT authentication, and Pydantic payload validation.
 
 
 ### 📫 Let's Connect
